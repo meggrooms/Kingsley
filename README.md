@@ -9,4 +9,5 @@ Maps were created using Google Maps API and the National Institute of Statistics
 
 <h2>Traditional Map</h2>
 My first iteration of the map was the typical daytime view. <BR>
-<img src="
+
+
