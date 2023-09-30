@@ -21,6 +21,12 @@ As a person developing colorblindness, I found the classic map colors much easie
 
 <BR>
 <BR>
+<h2>Filters and Location Markers</h2>
+
+<img src="https://github.com/meggrooms/KingsleyRidingUSA/blob/main/Screenshot%202023-09-30%20at%201.44.59%20PM.png">
+
+
+
 <img src="https://github.com/meggrooms/Kingsley/blob/main/zoomed_out_bespoke.png">
 <BR>
 <BR>
