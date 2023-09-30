@@ -1,5 +1,5 @@
 # Kingsley Riding USA
-A collection of maps I created for use with Kingsley Riding USA, a purveyor of bespoke saddles, equine accessres, footwear, and saddle fitting.
+A collection of maps I created for use with Kingsley Riding USA, a purveyor of bespoke saddles, equine accessories, footwear, and saddle fitting.
 <BR>
 <BR>
 
