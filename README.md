@@ -16,7 +16,7 @@ My first iteration of the map was the typical daytime view.
 <BR><BR>
 <h2>Bespoke Map</h2>
 Kingsley Riding USA is a purveyor of bespoke saddles, footwear, equine accessories, and saddle fitting.<BR>
-I wanted the map to match the theme and color scheme of the website, but the reason went beyond that.<BR>
+I wanted the map to match the theme and color scheme of the website--but the reason goes beyond that.<BR>
 As a person developing colorblindness, I found the classic map colors much easier to see and process. I am happy with the map's appearance.
 
 <BR>
@@ -25,9 +25,6 @@ As a person developing colorblindness, I found the classic map colors much easie
 
 <img src="https://github.com/meggrooms/KingsleyRidingUSA/blob/main/Screenshot%202023-09-30%20at%201.44.59%20PM.png">
 
-
-
-<img src="https://github.com/meggrooms/Kingsley/blob/main/zoomed_out_bespoke.png">
 <BR>
 <BR>
 <img src="https://github.com/meggrooms/Kingsley/blob/main/KingsleyRiding_calm%20map.png">
