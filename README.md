@@ -4,7 +4,7 @@ A collection of maps I created for use with Kingsley Riding USA, a purveyor of b
 
 
 <h2>Traditional Map</h2>
-My first iteration of the map was the typical daytime view.
+My first iteration of the map was the typical daytime view. While this standard map is familiar to most people, it was too bright and busy for the "bespoke" theme desired.
 <BR>
 <BR>
 <img src="https://github.com/meggrooms/Kingsley/blob/main/KingsleyRiding_Day%20map.png">
