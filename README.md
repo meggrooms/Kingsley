@@ -1,9 +1,5 @@
 # Kingsley Riding USA
-A collection of maps I created for use with Kingsley Riding USA, a purveyor of bespoke saddles, equine accessories, footwear, and saddle fitting.
-<BR>
-<BR>
-
-Maps were created using JSON, Google Maps API, and the National Institute of Statistics and Geography (INEGI) API.
+A collection of maps I created for use with Kingsley Riding USA, a purveyor of bespoke saddles, equine accessories, footwear, and saddle fitting. The maps were created using JSON, Google Maps API, and the National Institute of Statistics and Geography (INEGI) API.
 <BR><BR>
 
 
