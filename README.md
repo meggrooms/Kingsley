@@ -1,17 +1,18 @@
 # Kingsley Riding USA
-A collection of maps I created for use with Kingsley Riding USA, a purveyor of bespoke saddles, equine accessories, footwear, and saddle fitting. The maps were created using JSON, Google Maps API, and the National Institute of Statistics and Geography (INEGI) API.
+
+I developed a series of maps tailored for Kingsley Riding USA, a provider of custom-made saddles, equine accessories, footwear, and saddle fitting services. These maps were generated utilizing JSON, the Google Maps API, and the National Institute of Statistics and Geography (INEGI) API.
 <BR><BR>
 
 
 <h2>Traditional Map</h2>
-My first iteration of the map was the typical daytime view. While this standard map is familiar to most people, it was too bright and busy for the "bespoke" theme desired.
+The initial version of the map featured the conventional daytime view. Although this type of map is widely recognized, its brightness and level of detail proved to be excessive for the desired "bespoke" theme.
 <BR>
 <BR>
 <img src="https://github.com/meggrooms/Kingsley/blob/main/KingsleyRiding_Day%20map.png">
 
 <BR><BR>
 <h2>Bespoke Map</h2>
-I wanted the map to match the theme and color scheme of the website--but the reason goes beyond that. As a person developing colorblindness, I found the calmer map colors much easier to process. I am happy with the map's appearance.
+I aimed to ensure that the map harmonizes seamlessly with the website's theme and color palette. Given my personal experience developing colorblindness, I opted for subdued map hues, which I found to be considerably more accessible. I am pleased with the final visual outcome. In addition, I took the initiative to implement filters for the businesses featured on the map, enhancing the user experience by facilitating streamlined item searches for clients.
 
 <BR>
 <BR>
