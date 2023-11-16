@@ -12,7 +12,7 @@ The initial version of the map featured the conventional daytime view. Although 
 
 <BR><BR>
 <h2>Bespoke Map</h2>
-I aimed to ensure that the map harmonizes seamlessly with the website's theme and color palette. Given my personal experience developing colorblindness, I opted for subdued map hues, which I found to be considerably more accessible. I am pleased with the final visual outcome. In addition, I took the initiative to implement filters for the businesses featured on the map, enhancing the user experience by facilitating streamlined item searches for clients.
+I aimed to ensure that the map harmonizes seamlessly with the website's theme and color palette. Given my personal experience developing colorblindness, I opted for subdued map hues using the retro theme, which I found to be considerably more accessible. I am pleased with the final visual outcome. In addition, I took the initiative to implement filters for the businesses featured on the map, enhancing the user experience by facilitating streamlined item searches for clients.
 
 <BR>
 <BR>
