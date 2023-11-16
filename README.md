@@ -3,9 +3,11 @@ Kingsley Riding USA, a leading equestrian establishment, offers personalized sad
 <BR>
 <BR>
 <img src="https://github.com/meggrooms/KingsleyRidingUSA/blob/main/Kingsley_github_01.png">
+<BR>
 
-#LINK TO WEBSITE PICS
-#LINK TO FULLSTACK
+<img src="https://github.com/meggrooms/KingsleyRidingUSA/blob/main/web_exp_fullstack.png">
+<BR>
+<BR>
 
 
 I developed a series of maps tailored for Kingsley Riding USA, a provider of custom-made saddles, equine accessories, footwear, and saddle fitting services. These maps were generated utilizing JSON, the Google Maps API, and the National Institute of Statistics and Geography (INEGI) API.
