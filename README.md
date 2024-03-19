@@ -1,30 +1,21 @@
 # Kingsley Riding USA
 Kingsley Riding USA, a leading equestrian establishment, offers personalized saddles, artisanal footwear, and a range of top-notch equine accessories. In a 6-month contract, my responsibility was to create a simple, "tailor-made" website, providing customers with a platform for both local and online orders of their premium equine accessories
 <BR>
+<strong>Update: Kingsley Riding USA shuttered in late 2023</strong>
 <BR>
 <img src="https://github.com/meggrooms/KingsleyRidingUSA/blob/main/Kingsley_github_01.png">
 <BR>
 
 ## Shopify Platform
 <br>
-Working with Kingsley Riding USA introduced me to the Shopify website & sales platform. 
-<BR>
-<BR>
 
 <ins>Challenges & Outcomes:</ins> 
 <BR><strong>Platform & ecommerce development.</strong> 
-
+This was my first encounter with Shopify. The client's former web developer had opted for Shopify as an all-in-one solution, and I saw no reason to deviate from that choice. However, delving into Shopify presented a steeper learning curve than I had anticipated. Despite this, after immersing myself in tutorials and exploration for several days, I emerged with a newfound familiarity.
 
 <BR>
 <BR>
 <img src="https://github.com/meggrooms/KingsleyRidingUSA/blob/main/web_exp_fullstack.png">
-<BR>
-<BR>
-
-
-
-
-<strong>Update: Kingsley Riding USA shuttered in late 2023</strong>
 <BR>
 <BR>
 
