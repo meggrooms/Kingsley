@@ -5,10 +5,20 @@ Kingsley Riding USA, a leading equestrian establishment, offers personalized sad
 <img src="https://github.com/meggrooms/KingsleyRidingUSA/blob/main/Kingsley_github_01.png">
 <BR>
 
+## Shopify Platform
+<br>
+
+
 <img src="https://github.com/meggrooms/KingsleyRidingUSA/blob/main/web_exp_fullstack.png">
 <BR>
 <BR>
 
+
+
+
+<strong>Update: Kingsley Riding USA shuttered in late 2023</strong>
+<BR>
+<BR>
 
 I developed a series of maps tailored for Kingsley Riding USA, a provider of custom-made saddles, equine accessories, footwear, and saddle fitting services. These maps were generated utilizing JSON, the Google Maps API, and the National Institute of Statistics and Geography (INEGI) API.
 <BR><BR>
