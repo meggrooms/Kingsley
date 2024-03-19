@@ -14,7 +14,6 @@ Kingsley Riding USA, a leading equestrian establishment, offers personalized sad
 This was my first encounter with Shopify. The client's former web developer had opted for Shopify as an all-in-one solution, and I saw no reason to deviate from that choice. However, delving into Shopify presented a steeper learning curve than I had anticipated. Despite this, after immersing myself in tutorials and exploration for several days, I emerged with a newfound familiarity.
 
 <BR>
-<BR>
 <img src="https://github.com/meggrooms/KingsleyRidingUSA/blob/main/web_exp_fullstack.png">
 <BR>
 <BR>
