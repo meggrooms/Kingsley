@@ -7,8 +7,16 @@ Kingsley Riding USA, a leading equestrian establishment, offers personalized sad
 
 ## Shopify Platform
 <br>
+Working with Kingsley Riding USA introduced me to the Shopify website & sales platform. 
+<BR>
+<BR>
+
+<ins>Challenges & Outcomes:</ins> 
+<BR><strong>Platform & ecommerce development.</strong> 
 
 
+<BR>
+<BR>
 <img src="https://github.com/meggrooms/KingsleyRidingUSA/blob/main/web_exp_fullstack.png">
 <BR>
 <BR>
